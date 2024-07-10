@@ -6,15 +6,18 @@
       <option name="ignoredModules">
         <list>
           <option value="TaskJDBC" />
+          <option value="JavaJDBC" />
         </list>
       </option>
       <option name="ignoredPackages">
         <list>
           <option value="com.google.protobuf:protobuf-java:3.11.4" />
+          <option value="com.google.protobuf:protobuf-java:3.11.4" />
         </list>
       </option>
       <option name="ignoredReasons">
         <list>
+          <option value="Not exploitable" />
           <option value="Not exploitable" />
         </list>
       </option>
